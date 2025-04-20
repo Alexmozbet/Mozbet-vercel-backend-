@@ -2,10 +2,7 @@
   "name": "mozbet-backend",
   "version": "1.0.0",
   "description": "Backend da MozBet usando Vercel e Supabase",
-  "main": "index.js",
-  "scripts": {
-    "start": "node api/auth.js"
-  },
+  "main": "api/index.js",
   "keywords": [
     "mozbet",
     "apostasonline",
