@@ -1,0 +1,21 @@
+{
+  "name": "mozbet-backend",
+  "version": "1.0.0",
+  "description": "Backend da MozBet usando Vercel e Supabase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/auth.js"
+  },
+  "keywords": [
+    "mozbet",
+    "apostasonline",
+    "supabase",
+    "vercel",
+    "backend"
+  ],
+  "author": "Alex Macuvel",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.5"
+  }
+}
