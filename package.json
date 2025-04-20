@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Backend da MozBet usando Vercel e Supabase",
   "main": "api/index.js",
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
   "keywords": [
     "mozbet",
     "apostasonline",
